@@ -8,4 +8,4 @@ Tableau Dashboard 3 Public Link - https://public.tableau.com/views/LokSabhaAnaly
 
 Tableau Story Public Link - https://public.tableau.com/views/LokSabhaAnalysis2019StoryBoard_16972790363220/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Video Comparison = https://youtu.be/I8wr9IyBCOQ?si=lgOdwVFKmiKKZ66D
+Video Comparison = https://youtu.be/zyppz6PW_Xk?si=ikIXJG7z-TMPPRWc
